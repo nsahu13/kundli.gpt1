@@ -1,0 +1,7 @@
+{
+  "name": "Kundli GPT",
+  "description": "An AI-powered Vedic Astrologer that interprets your birth chart and provides spiritual guidance, remedies, and life advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
